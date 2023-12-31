@@ -1,0 +1,9 @@
+D:\Demo Project Try\DemoProject\BLL\bin\Debug\BLL.dll
+D:\Demo Project Try\DemoProject\BLL\bin\Debug\BLL.pdb
+D:\Demo Project Try\DemoProject\BLL\bin\Debug\DAL.dll
+D:\Demo Project Try\DemoProject\BLL\bin\Debug\DAL.pdb
+D:\Demo Project Try\DemoProject\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\Demo Project Try\DemoProject\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Demo Project Try\DemoProject\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\Demo Project Try\DemoProject\BLL\obj\Debug\BLL.dll
+D:\Demo Project Try\DemoProject\BLL\obj\Debug\BLL.pdb
